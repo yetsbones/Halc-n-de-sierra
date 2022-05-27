@@ -1,0 +1,45 @@
+.a {
+  width: 200px;
+  background-color: #ffcd70;
+   margin-left:auto;
+  margin-right:auto;
+   width:1000px;
+ heigth:500px;
+  text-align:center;
+  border: solid;
+   color: #ff7300;
+  font-family: 'Josefin Sans', sans-serif;
+}
+img{
+display:block;
+ width:400px;
+ heigth:400px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:auto;
+  margin-bottom:auto;
+}
+body{
+background-color: #ffbd61;
+
+font-family: 'Space Mono', monospace;
+
+}
+.b{
+ color: #9e5400
+  
+}
+img{
+heigth:300px;
+  width:400px;
+}
+button{
+  background-color: #ffd1bd;
+  color: #ff7300;
+}
+<p style= "text-align: font-family:Times New Roma>
+h3{
+  color: #ff9500;
+  font-family: 'Black Han Sans', sans-serif;
+
+}
